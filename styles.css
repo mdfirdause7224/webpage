@@ -1,0 +1,85 @@
+body {
+  border: 1px solid black;
+  padding: 10px;
+  width: 900px;
+}
+
+.name {
+  display: flex;
+}
+
+.multiple{
+  margin-left: 430px;
+}
+
+.heading {
+  text-align: center;
+  border-bottom: 1px solid black;
+  margin: -10px;
+  padding-bottom: 70px;
+  line-height: 10px;
+}
+
+.column {
+  display: flex;
+  margin: 11px -10px 0px;
+  padding: 0px 10px;
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+}
+
+.options {
+  width: 400px;
+  border-right: 1px solid black;
+  text-align: left;
+
+}
+
+.exp {
+  border-right: 1px solid black;
+  padding: 0px 10px;
+}
+
+.education {
+  padding: 0px 10px;
+}
+
+.w1 {
+  border-bottom: 1px solid black;
+  margin: 0px -10px;
+  padding: 0px 10px;
+}
+
+.review{
+  font-style: italic;
+}
+
+.review1 {
+  display: flex;
+}
+
+.id1 {
+  border: 1px solid black;
+  border-radius: 20px;
+  margin: 20px;
+  padding: 20px;
+}
+
+.id2 {
+  border: 1px solid black;
+  border-radius: 20px;
+  margin: 20px;
+  padding: 20px;
+}
+
+.id3 {
+  border: 1px solid black;
+  border-radius: 20px;
+  margin: 20px;
+  padding: 20px;
+}
+
+h4 {
+  text-align: center;
+  font-style: italic;
+}
